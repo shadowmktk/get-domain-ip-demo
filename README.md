@@ -6,6 +6,11 @@ pip3 install dnspython
 
 Get domain ip.
 ```
+python3 main.py
+```
+
+Example.
+```
 ubuntu@ADMIN:~/get-domain-ip-demo$ cat main.py
 import json
 from get_domain_ip import GetDomainIP
